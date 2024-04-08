@@ -1,11 +1,3 @@
-// describe('template spec', () => {
-//   it('passes', () => {
-//     cy.visit('https://example.cypress.io')
-//   })
-// })
-
-/// <reference types="cypress" />
-
 describe('Interview task for homepage and checks if it is article page type', () => {
   it('Visits homepage, opens first article', () => {
       //Make sure You're using specific 1536x960 viewport
